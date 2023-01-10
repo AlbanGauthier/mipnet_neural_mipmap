@@ -1,0 +1,3 @@
+materials1K_train/material001/
+materials1K_train/material002/
+materials1K_train/material003/
