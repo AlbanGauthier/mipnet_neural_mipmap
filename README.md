@@ -17,18 +17,18 @@
 ## Citation
 ```
 @article{Gauthier_2022_MIPNet,
-author = {Gauthier, Alban and Faury, Robin and Levallois, J\'{e}r\'{e}my and Thonat, Th\'{e}o and Thiery, Jean-Marc and Boubekeur, Tamy},
-title = {MIPNet: Neural Normal-to-Anisotropic-Roughness MIP Mapping},
-year = {2022},
-issue_date = {December 2022},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-volume = {41},
-number = {6},
-journal = {ACM Trans. Graph.},
-month = {nov},
-articleno = {246},
-numpages = {12}
+	author = {Gauthier, Alban and Faury, Robin and Levallois, J\'{e}r\'{e}my and Thonat, Th\'{e}o and Thiery, Jean-Marc and Boubekeur, Tamy},
+	title = {MIPNet: Neural Normal-to-Anisotropic-Roughness MIP Mapping},
+	year = {2022},
+	issue_date = {December 2022},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	volume = {41},
+	number = {6},
+	journal = {ACM Trans. Graph.},
+	month = {nov},
+	articleno = {246},
+	numpages = {12}
 }
 ```
 
@@ -113,7 +113,7 @@ Useful options:
 ```
 --eval-after-training :   launch inference on training data after training ends
 --output-maps-pyramid :   outputs the mipmap pyramids for normal and anisotropic coefficients
---eval-compute-flip :     comupute flip error between reference renderings, baseline and MIPNet maps
+--eval-compute-flip :     compute flip error between reference renderings, baseline and MIPNet maps
 --train-opengl-normals :  train using OpenGL normal maps
 ```
 
